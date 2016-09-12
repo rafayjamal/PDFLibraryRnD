@@ -13,7 +13,7 @@ namespace ConsoleApplicationPDF
     {
         public void imageToPDF()
         {
-            const string filename = "ImageToPDF_Test.pdf";
+            const string filename = "ImageToPDF_Test2.pdf";
             const string imageLoc = "12540536_1099788833404737_5006626391975825542_n.jpg";
 
             PdfDocument document = new PdfDocument();
@@ -23,7 +23,8 @@ namespace ConsoleApplicationPDF
 
             // Get an XGraphics object for drawing
             XGraphics gfx = XGraphics.FromPdfPage(page);
-            DrawImage(gfx, imageLoc, 50, 50, 250, 250);
+            gfx.DrawImage(XImage.FromFile(imageLoc), 0, 0);
+            //DrawImage(gfx, imageLoc, 0,0);
 
             // Save and start View
             document.Save(filename);

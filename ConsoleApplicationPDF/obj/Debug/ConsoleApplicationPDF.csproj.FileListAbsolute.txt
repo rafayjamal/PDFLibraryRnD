@@ -13,3 +13,12 @@ C:\Users\rafay\Downloads\C O D E\ConsoleApplicationPDF\ConsoleApplicationPDF\Con
 C:\Users\rafay\Downloads\C O D E\ConsoleApplicationPDF\ConsoleApplicationPDF\ConsoleApplicationPDF\bin\Debug\ConsoleApplicationPDF.exe
 C:\Users\rafay\Downloads\C O D E\ConsoleApplicationPDF\ConsoleApplicationPDF\ConsoleApplicationPDF\bin\Debug\ConsoleApplicationPDF.pdb
 C:\Users\rafay\Downloads\C O D E\ConsoleApplicationPDF\ConsoleApplicationPDF\ConsoleApplicationPDF\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\ConsoleApplicationPDF\bin\Debug\ConsoleApplicationPDF.exe.config
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\ConsoleApplicationPDF\obj\Debug\ConsoleApplicationPDF.exe
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\ConsoleApplicationPDF\obj\Debug\ConsoleApplicationPDF.pdb
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\ConsoleApplicationPDF\bin\Debug\ConsoleApplicationPDF.exe
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\ConsoleApplicationPDF\bin\Debug\ConsoleApplicationPDF.pdb
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\ConsoleApplicationPDF\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\ConsoleApplicationPDF\obj\Debug\ConsoleApplicationPDF.csprojResolveAssemblyReference.cache
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\ConsoleApplicationPDF\bin\Debug\RPDF.LIBRARY.dll
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\ConsoleApplicationPDF\bin\Debug\RPDF.LIBRARY.pdb

@@ -1,5 +1,6 @@
 ﻿using PdfSharp.Drawing;
 using PdfSharp.Pdf;
+using RPDF.LIBRARY;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,8 @@ namespace ConsoleApplicationPDF
     {
         static void Main(string[] args)
         {
+            const string fileName = @"Confidentiality and IP Assignment-of-Rights Agreement (Non-Employee Staf.pdf";
+
             ////1. You’ll need a PDF document:
             //PdfDocument document = new PdfDocument();
             ////2. And you need a page:
@@ -27,14 +30,14 @@ namespace ConsoleApplicationPDF
             ////7. A PC application might show the file:
             //document.Save(filename);
 
-            //SplitDocument splitDocument = new SplitDocument();
-            //splitDocument.splitDocument();
+            SplitDocument splitDocument = new SplitDocument();
+            splitDocument.SplitPdf(fileName);
 
             // CombineDocuments combineDocuments = new CombineDocuments();
             //combineDocuments.combineDocuments2();
 
-            ImageToPDF imageToPDF = new ImageToPDF();
-            imageToPDF.imageToPDF();
+            //ImageToPDF imageToPDF = new ImageToPDF();
+            //imageToPDF.imageToPDF();
         }
     }
 }

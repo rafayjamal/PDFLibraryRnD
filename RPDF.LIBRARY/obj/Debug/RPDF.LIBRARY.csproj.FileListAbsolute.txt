@@ -1,0 +1,7 @@
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\RPDF.LIBRARY\bin\Debug\RPDF.LIBRARY.dll
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\RPDF.LIBRARY\bin\Debug\RPDF.LIBRARY.pdb
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\RPDF.LIBRARY\bin\Debug\PdfSharp-WPF.dll
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\RPDF.LIBRARY\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\RPDF.LIBRARY\obj\Debug\RPDF.LIBRARY.csprojResolveAssemblyReference.cache
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\RPDF.LIBRARY\obj\Debug\RPDF.LIBRARY.dll
+C:\Users\rafayj\Source\Repos\PDFLibraryRnD\RPDF.LIBRARY\obj\Debug\RPDF.LIBRARY.pdb
